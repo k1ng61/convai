@@ -1,11 +1,4 @@
 
-"""
-Talk with a model using a web UI.
-## Examples
-```shell
-parlai interactive_web --model-file "zoo:tutorial_transformer_generator/model"
-```
-"""
 
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from parlai.scripts.interactive import setup_args
