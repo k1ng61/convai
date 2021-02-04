@@ -21,7 +21,7 @@ WEB_HTML = """
 <html>
     <link rel="stylesheet" href={} />
     <script defer src={}></script>
-    <head><title> Interactive Run </title></head>
+    <head><title> Conversational AI </title></head>
     <body>
         
 
@@ -35,7 +35,7 @@ WEB_HTML = """
                           <p>
                             <strong>Instructions</strong>
                             <br>
-                            Enter a message, and the model will respond interactively.
+                            Enter a message, and the model will respond and brighten your mood!.
                           </p>
                         </div>
                       </div>
